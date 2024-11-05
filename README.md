@@ -99,6 +99,12 @@ pip freeze > requirements.txt
 
 ## Usage
 
+```bash
+pip show gpytorch  
+pip show bayesian-optimization  
+pip show jupyter
+```
+
 ```bash 
 jupyter notebook
 ```
