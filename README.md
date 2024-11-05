@@ -73,3 +73,10 @@ jupyter notebook
 
 ## Resources
 
+- [Gaussian Processes for Machine Learning](book)http://www.gaussianprocess.org/gpml/)
+
+- [Bayesian Optimization in Python](https://github.com/fmfn/BayesianOptimization)
+
+
+
+
