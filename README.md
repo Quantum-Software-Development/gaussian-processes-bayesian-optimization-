@@ -1,11 +1,18 @@
+<br>
 
+# <p align="center"> 📈 Gaussian Processes and Bayesian Optimization Course  
 
-
-
-
-# 📈 Gaussian Processes and Bayesian Optimization Course  
+<br>
 
 Welcome to the repository for the Gaussian Processes and Bayesian Optimization course! This course is designed to provide a comprehensive understanding of Gaussian Processes (GPs) and their application in Bayesian Optimization (BO).  
+
+<br><br>
+
+<!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
+### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
+
+<br>
 
 ## Introduction  
 
@@ -65,6 +72,31 @@ cd gaussian-processes-bayesian-optimization
 pip install -r requirements.txt
 ```
 
+## Requirementes
+
+### Library Descriptions:
+
+- numpy: For numerical calculations and array manipulation.
+- scipy: For scientific functions and advanced computation.
+- pandas: For data manipulation and analysis.
+- matplotlib: For data visualization.
+- seaborn: For statistical visualization.
+- scikit-learn: For machine learning algorithms and useful tools.
+- gpytorch: For working with Gaussian Processes.
+- bayesian-optimization: For implementing Bayesian optimization techniques.
+- jupyter: For running Jupyter notebooks, which are useful for course presentations
+
+
+## How to Create the requirements.txt File
+
+To create the `requirements.txt`b file, you can simply copy the dependencies above and paste them into a file named`requirements.txt` in the root of your project.
+
+If you are using a virtual environment (like virtualenv or conda), you can also automatically generate a `requirements.txt` file with the installed packages using: 
+
+```bash
+pip freeze > requirements.txt
+```
+
 ## Usage
 
 ```bash 
@@ -72,4 +104,16 @@ jupyter notebook
 ```
 
 ## Resources
+
+- [Gaussian Processes for Machine Learning](book)http://www.gaussianprocess.org/gpml/)
+
+- [Bayesian Optimization in Python](https://github.com/fmfn/BayesianOptimization)
+
+
+## Contributing
+
+Contributions to enhance this course material are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
+
+
+
 
