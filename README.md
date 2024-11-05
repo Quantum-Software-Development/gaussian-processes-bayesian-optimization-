@@ -89,10 +89,9 @@ pip install -r requirements.txt
 
 ## How to Create the requirements.txt File
 
-To create the _requirements.txt file, you can simply copy the dependencies above and paste them into a file named requirements.txt in the root of your project.
+To create the `requirements.txt`b file, you can simply copy the dependencies above and paste them into a file named`requirements.txt` in the root of your project.
 
-If you are using a virtual environment (like virtualenv or conda), you can also automatically generate a requirements.txt file with the installed packages using:
-
+If you are using a virtual environment (like virtualenv or conda), you can also automatically generate a `requirements.txt` file with the installed packages using: 
 
 
 ## Usage
