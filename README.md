@@ -1,11 +1,18 @@
+<br>
 
+# <p align="center"> 📈 Gaussian Processes and Bayesian Optimization Course  
 
-
-
-
-# 📈 Gaussian Processes and Bayesian Optimization Course  
+<br>
 
 Welcome to the repository for the Gaussian Processes and Bayesian Optimization course! This course is designed to provide a comprehensive understanding of Gaussian Processes (GPs) and their application in Bayesian Optimization (BO).  
+
+<br><br>
+
+<!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
+### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
+
+<br>
 
 ## Introduction  
 
