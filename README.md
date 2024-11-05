@@ -72,6 +72,22 @@ cd gaussian-processes-bayesian-optimization
 pip install -r requirements.txt
 ```
 
+## Requirementes
+
+### Library Descriptions:
+
+- numpy: For numerical calculations and array manipulation.
+- scipy: For scientific functions and advanced computation.
+- pandas: For data manipulation and analysis.
+- matplotlib: For data visualization.
+- seaborn: For statistical visualization.
+- scikit-learn: For machine learning algorithms and useful tools.
+- gpytorch: For working with Gaussian Processes.
+- bayesian-optimization: For implementing Bayesian optimization techniques.
+- jupyter: For running Jupyter notebooks, which are useful for course presentations
+
+
+
 ## Usage
 
 ```bash 
@@ -83,6 +99,11 @@ jupyter notebook
 - [Gaussian Processes for Machine Learning](book)http://www.gaussianprocess.org/gpml/)
 
 - [Bayesian Optimization in Python](https://github.com/fmfn/BayesianOptimization)
+
+
+## Contributing
+
+Contributions to enhance this course material are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
 
 
 
