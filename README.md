@@ -93,6 +93,9 @@ To create the `requirements.txt`b file, you can simply copy the dependencies abo
 
 If you are using a virtual environment (like virtualenv or conda), you can also automatically generate a `requirements.txt` file with the installed packages using: 
 
+```bash
+pip freeze > requirements.txt
+```
 
 ## Usage
 
