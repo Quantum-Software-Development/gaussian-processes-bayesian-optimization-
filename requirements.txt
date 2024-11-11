@@ -9,5 +9,5 @@ gpytorch==1.6.0             # Specify version, check latest available
 bayesian-optimization==1.2.0 # Specify version, check latest available  
 jupyter==1.1.1   
 bayesian-optimization==2.0.0 # Specify version, check latest available  
-jupyter==1.0.0   
+jupyter==1.1.1   
 
