@@ -8,6 +8,6 @@ scikit-learn==1.5.2
 gpytorch==1.6.0             # Specify version, check latest available  
 bayesian-optimization==1.2.0 # Specify version, check latest available  
 jupyter==1.1.1   
-bayesian-optimization==2.0.0 # Specify version, check latest available  
+bayesian-optimization==2.0.1 # Specify version, check latest available  
 jupyter==1.1.1   
 
