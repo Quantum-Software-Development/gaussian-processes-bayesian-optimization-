@@ -8,6 +8,11 @@ Welcome to the repository for the Gaussian Processes and Bayesian Optimization c
 
 <br><br>
 
+
+https://github.com/user-attachments/assets/eff405d3-fc72-499f-98e2-0e198c37b8b4
+
+<br><br>
+
 <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
 ### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
