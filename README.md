@@ -75,6 +75,11 @@ To get started, clone this repository and install the required packages using pi
 git clone https://github.com/yourusername/gaussian-processes-bayesian-optimization.git  
 ```
 
+<br>
+
+
+
+
 ## Requirementes
 
 ### Library Descriptions:
