@@ -77,6 +77,12 @@ git clone https://github.com/yourusername/gaussian-processes-bayesian-optimizati
 
 <br>
 
+```bash
+cd gaussian-processes-bayesian-optimization  
+```
+
+<br>
+
 
 
 
