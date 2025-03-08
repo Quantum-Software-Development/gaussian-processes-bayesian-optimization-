@@ -83,7 +83,11 @@ cd gaussian-processes-bayesian-optimization
 
 <br>
 
+```bash
+pip install -r requirements.txt
+```
 
+<br>
 
 
 ## Requirementes
